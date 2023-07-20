@@ -13,4 +13,5 @@
   - Temp: https://rage-ai-two.vercel.app/
   - Mirror: https://rage-ai.vercel.app/
 
-<img width="1027" alt="Screenshot 2023-07-20 at 12 59 15 PM" src="https://github.com/88um/rage-ai/assets/97570113/3c1107cc-df31-4721-b768-a1d12cb798e7">
+
+<img width="1027" alt="Screenshot 2023-07-20 at 12 59 15 PM" src="https://github.com/88um/rage-ai/assets/97570113/3382d4f4-39d1-4e48-8c4d-48e58157b4cc">
