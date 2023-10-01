@@ -1,0 +1,12 @@
+name: Keep alive cron job
+on:
+  schedule:
+    - cron: '0 12 * * *' 
+jobs:
+  cron:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Call endpoint to keep the database alive
+        run: |
+          curl --request PUT \
+            --url '${{ secrets.SITE_URL }}/api/alive'
